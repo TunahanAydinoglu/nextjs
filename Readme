@@ -6,4 +6,9 @@ icons react svgr
 
 
 next & postcss 
-npm i -D postcss-loader postcss-nested
+	npm i -D postcss-loader postcss-nested
+
+
+classNames
+	npm i classnames
+
