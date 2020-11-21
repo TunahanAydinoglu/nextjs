@@ -1,0 +1,9 @@
+Next js 
+Storybook
+
+icons react svgr
+	npm i @svgr/cli --save-dev
+
+
+next & postcss 
+npm i -D postcss-loader postcss-nested
